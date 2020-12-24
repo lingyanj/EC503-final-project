@@ -1,7 +1,8 @@
-# EC503-final-project
+# EC503-final-project - FCMCluster
 
-FUNCTION:
 
+## Function:
+```bash
 FCMCluster.m             FCM algorithm
 
 kMeans.m                 k means algorithm
@@ -17,8 +18,9 @@ eg_regular.m             implement k Means and FCM on regular_data.mat
 eg_irre_pathbased2.m     implement k Means and FCM on pathbased2.mat 
 
 eg_irre_ds9.m            implement k Means and FCM on ds9.mat
+```
 
-DATASET:
+## Dataset:
 
 ds9 dataset: http://cs.joensuu.fi/sipu/datasets/
 
